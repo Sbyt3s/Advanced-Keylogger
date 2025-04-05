@@ -1,4 +1,4 @@
-# for fud keylogger contact us on (@whitedragon22)
+# For fud keylogger contact us on (@whitedragon22)
 # Advanced Keylogger with Webhook Reporting
 
 A comprehensive keylogger that captures keystrokes, screenshots, clipboard contents, mouse clicks, and system information, sending reports to a webhook URL at specified intervals.
